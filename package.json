@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "gl-buffer": "^2.1.2",
-    "gl-vao": "^1.2.1"
+    "gl-vao": "https://github.com/aferriss/gl-vao/tarball/master"
   },
   "devDependencies": {
     "browserify": "^12.0.1",
